@@ -7,12 +7,12 @@ Also you can see how much is in your acoount wallet and also look at how much pr
 
 To use a python wrapper for Upbit API
 
-'''bash
+```bash
 pip install pyupbit
-'''
+```
 
 ## Usage
 
-'''python
+```python
 import pyupbit
-''''
+```
